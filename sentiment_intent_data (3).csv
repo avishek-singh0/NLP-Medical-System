@@ -1,0 +1,21 @@
+Statement,Sentiment,Sentiment_Label,Intent,Intent_Label
+"I'm a bit worried about my back pain, but I hope it gets better soon.",Anxious,0,Seeking reassurance,1
+I have a fever and headache since last night.,Anxious,0,Reporting symptoms,2
+Should I be concerned about my chest pain?,Anxious,0,Seeking reassurance,1
+My knee has been swollen for two days now.,Anxious,0,Reporting symptoms,2
+I'm scared this could be something serious.,Anxious,0,Expressing concern,0
+Is this medication safe for long-term use?,Reassured,2,Seeking reassurance,1
+I feel dizzy and nauseous after taking this pill.,Anxious,0,Reporting symptoms,2
+I read online that my symptoms could be cancer.,Anxious,0,Expressing concern,0
+My cough hasn't improved even after a week.,Anxious,0,Reporting symptoms,2
+Should I go to the hospital for this issue?,Anxious,0,Seeking reassurance,1
+I think my treatment is working well.,Reassured,2,Expressing concern,2
+"The pain is mild, but I’m still worried.",Anxious,0,Seeking reassurance,1
+I'm not sure if my symptoms are serious.,Neutral,1,Seeking reassurance,1
+I feel much better after taking the medicine.,Reassured,2,Expressing concern,2
+Do I need to take more tests?,Neutral,1,Seeking reassurance,1
+"The swelling is still there, should I be worried?",Anxious,0,Seeking reassurance,1
+My friend had similar symptoms and it turned out bad.,Anxious,0,Expressing concern,1
+I just want to confirm if this is normal.,Reassured,2,Seeking reassurance,0
+I feel reassured after talking to my doctor.,Reassured,2,Expressing concern,0
+"The symptoms are not severe, but I want to be sure.",Neutral,1,Seeking reassurance,1
